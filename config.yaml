@@ -1,0 +1,15 @@
+app:
+  title: "SalesInsight AI"
+  page_icon: "📈"
+  description: "An interactive sales analytics and forecasting dashboard."
+
+data:
+  sample_file: "data/sample_sales.csv"
+
+model:
+  forecast_periods: 6  # months
+  regression_type: "linear"
+
+logging:
+  level: "INFO"
+
