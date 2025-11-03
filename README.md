@@ -3,6 +3,7 @@
 An **interactive sales analytics dashboard** built with **Streamlit**, **Pandas**, and **Scikit-learn** for analyzing and forecasting sales trends.  
 Easily upload your data, view KPIs, visualize trends, and get automated future sales forecasts — all in one elegant interface.
 
+➡️ Live Demo : [[Link to the Streamlit Cloud App] (https://salesinsight-yxeequp2z5k3egkkjgbpi6.streamlit.app/)
 ---
 
 ## 🚀 Features
@@ -13,31 +14,13 @@ Easily upload your data, view KPIs, visualize trends, and get automated future s
 - 📤 Upload your own CSV file  
 - ⬇️ Export forecast results  
 - ⚙️ Configurable parameters via YAML  
-
----
-
-## 🧩 Folder Structure
-
-salesinsight/
-│
-├── app.py # Main Streamlit app
-├── data_loader.py # Data loading logic
-├── analysis.py # KPIs and forecasting logic
-├── config.yaml # Configuration file
-├── requirements.txt # Dependencies
-├── data/
-│ └── sample_sales.csv # Sample dataset
-└── README.md # Project documentation
-
-
-
 ---
 
 ## 🛠️ Installation
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone 
+git clone https://github.com/Sowmya932/salesinsight.git
 cd salesinsight-ai
 
 ### 2️⃣ Create and activate a virtual environment
